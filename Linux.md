@@ -9,7 +9,8 @@ Linux is a free operating system which is created on 25-Aug-1991.
 > ## 2) What is “open source”?
 Open source is a software or a program. It is free to access the normal user to use or developer can do modification in
 a source code. Open source software is developed as a public colabreation. It made for freely available.
-   Open source software are
+  
+  Open source software are
   * Mozilla's firefox
   * Thunderburd email client
   * Apache HTTP web server
