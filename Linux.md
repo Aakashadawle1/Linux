@@ -49,6 +49,11 @@ your own OS [see]([http://linuxfromscratch.org/lfs/index.html) or ask very huge 
 
 > ## 5) Who maintains each flavor?
 
+> ## 6) What is the difference between each flavor?
+Ubuntu - 
+It is reletevly late arrival and it's based on Debion with included with well known software like firefox, office.
+It is use a complex repository as a apt and allows redistribution of binary packages via Personal Package Archives.
+
 
 ## Linux Commands
 > # 1. | (Pipe)
