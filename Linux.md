@@ -54,16 +54,14 @@ Ubuntu -
 It is reletevly late arrival and it's based on Debion with included with well known software like firefox, office.
 It is use a complex repository as a apt and allows redistribution of binary packages via Personal Package Archives.
 
+Debian - 
+Arch provides more expedient support for building custom, installable packages from outside sources, with a ports-like package build system. Debian does not offer a ports system, relying instead on its large binary repositories.
+Debian has a more vehement stance on free software but still includes non-free software in its non-free repos. Arch is more lenient, and therefore inclusive, concerning non-free packages as defined by GNU.
 
-## Linux Commands
-> # 1. | (Pipe)
-Transfer of standard output to some other destination. It use to combine two or more command and in this the output of one
-command(data flow from left to right through the pipeline).
+Slackware - 
+Slackware uses BSD-style init scripts, whereas Arch uses systemd.
+Arch supplies a package management system in pacman which, unlike Slackware's standard tools, offers automatic dependency resolution and allows for more automated system upgrades. Slackware users typically prefer their method of manual dependency resolution, citing the level of system control it grants them, as well as Slackware's excellent supply of pre-installed libraries and dependencies.
+Arch is a rolling-release system. Slackware is seen as more conservative in its release cycle, preferring proven stable packages. Arch is more bleeding-edge in this respect.
 
-Ex - ls | more
-
-
-> # 2. > and >>
-
-> # 3. sudo 
-The sudo command stands for "superuser do". Which is a
+Fedora - 
+Fedora offers many installation options including a graphical installer as well as a minimal option. Fedora "spins" also provide alternative assortments of desktop environments to choose from, each with a modest assortment of default packages. Arch, on the other hand, only provides a few scripts meant to ease the process of a minimal base system install.
