@@ -7,7 +7,7 @@ In August, 1991, Linus announced that he was working on this operating system in
 **_Hello everybody out there using minix_ -**
 
 **_I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones. This has been brewing since april, and is starting to get ready. I'd like any feedback on things people like/dislike in minix, as my OS resembles it somewhat (same physical layout of the file-system (due to practical reasons) among other things).
-I've currently ported bash(1.08) and gcc(1.40), and things seem to work. This implies that I'll get something practical within a few months, and I'd like to know what features most people would want. Any suggestions are welcome, but I won't promise I'll implement them :-)_**
+I've currently ported bash(1.08) and gcc(1.40), and things seem to work. This implies that I'll get something practical within a few months, and I'd like to know what features most people would want. Any suggestions are welcome, but I won't promise I'll implement them._**
 
 On Spe 1991, Linus competed the crud version (0.01) of his new operating system.
 On Oct 1991, he Annaunced first official version (0.02) and it support to both bash (Unix-like operating systems and the GNU C Compiler.
@@ -24,4 +24,6 @@ Some Linux base operating systems are:
 |2003          |Fedora                   |
 |2004          |Ubuntu and CentOs        |
 |2006          |Oracle                   |
+
+Author of MINIX and Linus details - (http://www.linfo.org/linuxobsolete.html)
 
