@@ -25,29 +25,30 @@ Some Linux base operating systems are:
 |2004          |Ubuntu and CentOs        |
 |2006          |Oracle                   |
 
-Author of MINIX and Linus details - (http://www.linfo.org/linuxobsolete.html)
+Author of MINIX and Linus information in detail Link - (http://www.linfo.org/linuxobsolete.html)
 
-There are so many flavors of Linux
-1. Red Hat - 
-Red Hat started out as the "little Linux". Its Red Hat Enterprise Linux (RHEL) is maintain and support.
- 1. SUSE - 
-The Micro Focus-owned (but independently operated) SUSE Linux Enterprise Server (SLES) is stable, easy to maintain and offers 24x7 support.
+There are so many flavors of Linux and which is use for perticular purpose
+
+ 1. Red Hat - 
+Red Hat started out as the "little Linux". Its Red Hat Enterprise Linux (RHEL) is maintain and support. It is start up for black screen lovers.
+
+ 2. SUSE - 
+The Micro Focus-owned (but independently operated) SUSE Linux Enterprise Server (SLES) is stable, easy to maintain and offers 24x7 support. It is similar to windows 7 interface.
+
  3. CentOS - 
-CentOS will remain free, with support provided by the community-led CentOS project rather than through Red Hat.
+CentOS will remain free, with support provided by the community-led CentOS project rather than through Red Hat. It is suited for beginners beacuse of eassy to use. It is good to learn Linux administration.
+
  4. Debian - 
-If you're confused by Debian's inclusion here, don't be. Debian doesn't have a commercial support but you can connect with Debian-savvy consultants around the world via their Consultants page.
+If you're confused by Debian's inclusion here, don't be. Debian doesn't have a commercial support but you can connect with Debian-savvy consultants around the world via their Consultants page. Arch provides more expedient support for building custom, installable packages from outside sources, with a ports-like package build system. Debian does not offer a ports system, relying instead on its large binary repositories.
+It has a more vehement stance on free software but still includes non-free software in its non-free repos. Arch is more lenient, and therefore inclusive, concerning non-free packages as defined by GNU. It runs on almost all PCs, including older machins.
+
  5. Slackware - 
 While not generally associated with commercial distributions, Slackware Linux Slackware maintains relationships with several companies that provide fee-based support. Support provided company name are Adjuvo Consulting Ltd, Multi-User Solutions, RedAccess Corporation etc.
 
-Diffrance flavors of Linux
-
  Ubuntu - 
 It is reletevly late arrival and it's based on Debion with included with well known software like firefox, office.
-It is use a complex repository as a apt and allows redistribution of binary packages via Personal Package Archives.
-
- Debian - 
- Arch provides more expedient support for building custom, installable packages from outside sources, with a ports-like package build system. Debian does not offer a ports system, relying instead on its large binary repositories.
- Debian has a more vehement stance on free software but still includes non-free software in its non-free repos. Arch is more lenient, and therefore inclusive, concerning non-free packages as defined by GNU.
+It is use a complex repository as a apt and allows redistribution of binary packages via Personal Package Archives. Also it
+includes Live CD, regular releases, applications installed by default, and fast downloads of other software packages. Professional technical support is available.
  
  Slackware - 
 Slackware uses BSD-style init scripts, whereas Arch uses systemd.
@@ -56,3 +57,6 @@ Arch supplies a package management system in pacman which, unlike Slackware's st
 Fedora - 
 Fedora offers many installation options including a graphical installer as well as a minimal option. Fedora "spins" also provide alternative assortments of desktop environments to choose from, each with a modest assortment of default packages. Arch, on the other hand, only provides a few scripts meant to ease the process of a minimal base system install.
 
+Kali Linux → ( not much difficult) It is a favourite linux of lots of people, By using this we can definently appreciate the power of linux architecture. Many wireless attacks, server backdoor entries and netwrk spoofing can be done by this.
+
+You can see more information about the flavours of linux - (https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions)
