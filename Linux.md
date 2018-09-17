@@ -45,18 +45,18 @@ It has a more vehement stance on free software but still includes non-free softw
  5. Slackware - 
 While not generally associated with commercial distributions, Slackware Linux Slackware maintains relationships with several companies that provide fee-based support. Support provided company name are Adjuvo Consulting Ltd, Multi-User Solutions, RedAccess Corporation etc.
 
- Ubuntu - 
+ 6. Ubuntu - 
 It is reletevly late arrival and it's based on Debion with included with well known software like firefox, office.
 It is use a complex repository as a apt and allows redistribution of binary packages via Personal Package Archives. Also it
 includes Live CD, regular releases, applications installed by default, and fast downloads of other software packages. Professional technical support is available.
  
- Slackware - 
+ 7. Slackware - 
 Slackware uses BSD-style init scripts, whereas Arch uses systemd.
 Arch supplies a package management system in pacman which, unlike Slackware's standard tools, offers automatic dependency resolution and allows for more automated system upgrades. Slackware users typically prefer their method of manual dependency resolution, citing the level of system control it grants them, as well as Slackware's excellent supply of pre-installed libraries and dependencies. Arch is a rolling-release system. Slackware is seen as more conservative in its release cycle, preferring proven stable packages.
 
-Fedora - 
+ 8. Fedora - 
 Fedora offers many installation options including a graphical installer as well as a minimal option. Fedora "spins" also provide alternative assortments of desktop environments to choose from, each with a modest assortment of default packages. Arch, on the other hand, only provides a few scripts meant to ease the process of a minimal base system install.
 
-Kali Linux → ( not much difficult) It is a favourite linux of lots of people, By using this we can definently appreciate the power of linux architecture. Many wireless attacks, server backdoor entries and netwrk spoofing can be done by this.
+ 9. Kali Linux → ( not much difficult) It is a favourite linux of lots of people, By using this we can definently appreciate the power of linux architecture. Many wireless attacks, server backdoor entries and netwrk spoofing can be done by this.
 
 You can see more information about the flavours of linux - (https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions)
