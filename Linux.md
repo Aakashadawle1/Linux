@@ -15,7 +15,7 @@ On Oct 1991, he Annaunced first official version (0.02) and it support to both b
 
 Linus was decided to release Linux under the GPL(GNU General public licence). They make the source code freely available for any modified versions that they create and it came as a open source software. Linux Distribut and support to X-Window system, GNOME and KDE desktop environment also a most popular HTTP server. Linux support some application like Mozila Firefox, Office application, GIMP Image editor
 
-Some Linux base operating systems are:
+**_Some Linux base operating systems are_**:
 
 |Released Year | Released Version or Name|
 |--------------|-------------------------|
@@ -30,34 +30,34 @@ Author of MINIX and Linus information in detail Link - (http://www.linfo.org/lin
 
 There are so many flavors of Linux and which is use for perticular purpose
 
- 1. Red Hat - 
+ 1. **Red Hat** → 
 Red Hat started out as the "little Linux". Its Red Hat Enterprise Linux (RHEL) is maintain and support. It is start up for black screen lovers.
 
- 2. SUSE - 
+ 2. **SUSE** → 
 The Micro Focus-owned (but independently operated) SUSE Linux Enterprise Server (SLES) is stable, easy to maintain and offers 24x7 support. It is similar to windows 7 interface.
 
- 3. CentOS - 
+ 3. **CentOS** → 
 CentOS will remain free, with support provided by the community-led CentOS project rather than through Red Hat. It is suited for beginners beacuse of eassy to use. It is good to learn Linux administration.
 
- 4. Debian - 
+ 4. **Debian** → 
 If you're confused by Debian's inclusion here, don't be. Debian doesn't have a commercial support but you can connect with Debian-savvy consultants around the world via their Consultants page. Arch provides more expedient support for building custom, installable packages from outside sources, with a ports-like package build system. Debian does not offer a ports system, relying instead on its large binary repositories.
 It has a more vehement stance on free software but still includes non-free software in its non-free repos. Arch is more lenient, and therefore inclusive, concerning non-free packages as defined by GNU. It runs on almost all PCs, including older machins.
 
- 5. Slackware - 
+ 5. **Slackware** → 
 While not generally associated with commercial distributions, Slackware Linux Slackware maintains relationships with several companies that provide fee-based support. Support provided company name are Adjuvo Consulting Ltd, Multi-User Solutions, RedAccess Corporation etc.
 
- 6. Ubuntu - 
+ 6. **Ubuntu** → 
 It is reletevly late arrival and it's based on Debion with included with well known software like firefox, office.
 It is use a complex repository as a apt and allows redistribution of binary packages via Personal Package Archives. Also it
 includes Live CD, regular releases, applications installed by default, and fast downloads of other software packages. Professional technical support is available.
  
- 7. Slackware - 
+ 7. **Slackware** → 
 Slackware uses BSD-style init scripts, whereas Arch uses systemd.
 Arch supplies a package management system in pacman which, unlike Slackware's standard tools, offers automatic dependency resolution and allows for more automated system upgrades. Slackware users typically prefer their method of manual dependency resolution, citing the level of system control it grants them, as well as Slackware's excellent supply of pre-installed libraries and dependencies. Arch is a rolling-release system. Slackware is seen as more conservative in its release cycle, preferring proven stable packages.
 
- 8. Fedora - 
+ 8. **Fedora** → 
 Fedora offers many installation options including a graphical installer as well as a minimal option. Fedora "spins" also provide alternative assortments of desktop environments to choose from, each with a modest assortment of default packages. Arch, on the other hand, only provides a few scripts meant to ease the process of a minimal base system install.
 
- 9. Kali Linux → ( not much difficult) It is a favourite linux of lots of people, By using this we can definently appreciate the power of linux architecture. Many wireless attacks, server backdoor entries and netwrk spoofing can be done by this.
+ 9. **Kali Linux** → ( not much difficult) It is a favourite linux of lots of people, By using this we can definently appreciate the power of linux architecture. Many wireless attacks, server backdoor entries and netwrk spoofing can be done by this.
 
 You can see more information about the flavours of linux - (https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions)
