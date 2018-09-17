@@ -24,8 +24,6 @@ Linus was decided to release Linux under the GPL(GNU General public licence). Th
 |2004          |Ubuntu and CentOs        |
 |2006          |Oracle                   |
 
-Author of MINIX and Linus information in detail Link - (http://www.linfo.org/linuxobsolete.html)
-
 There are so many flavors of Linux and which is use for particular purpose
 
  1. **Red Hat** → 
